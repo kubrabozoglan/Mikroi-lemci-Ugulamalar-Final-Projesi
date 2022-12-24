@@ -1,2 +1,2 @@
-# Mikroi-lemci-Ugulamalar-Final-Projesi
+# MikroislemciUgulamalariFinalProjesi
 BM417 Mikroişlemci uygulamaları final projesi
